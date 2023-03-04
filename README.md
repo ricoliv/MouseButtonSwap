@@ -3,6 +3,9 @@ MouseButtonSwap
 Helpful for bothhanded users, which swap their mouse from left to right hand and back once in a while.
 
 This is a powershell script.
+
+It can be tested with powershell ISE.
+
 It runs in windows notification bar and shows a left- or right-handed mouse.
 It swaps mouse buttons with one klick - no matter if left or right. 
 Can be executed during user logon and activated in gpedit.msc  user - windows - scripts.
